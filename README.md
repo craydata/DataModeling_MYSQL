@@ -22,6 +22,7 @@ The Telecom Service Provider Database is specifically designed to facilitate the
 ## ERD Diagram
 - The Entity Relationship Diagram (ERD) illustrates the relationships between different entities in the database. Please refer to the provided ERD diagram for a visual representation of the structure:
 
+![EER](https://github.com/craydata/DataModeling_MYSQL/assets/95032838/feb2dc4b-cad1-48dc-aa8e-f8f4c081160b)
 
 
 The ERD diagram offers a clear depiction of the database structure, showcasing entities (such as customers, employees, and services) and their relationships (such as one-to-one, one-to-many, or many-to-many).
